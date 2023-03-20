@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.mindoth.unbreakingfix.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "UnbreakingEnchantmentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.unbreakingfix.refmap.json"
+}
